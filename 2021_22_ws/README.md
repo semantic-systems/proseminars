@@ -36,7 +36,7 @@ Students will be able to identify, evaluate and, if necessary, use current knowl
 - The presentation should introduce the topic and put in relation to other works and its applicability.
 
 #### Blog
-- The blog post can be written in any format. We suggust markdown. 
+- The blog post can be written in any format. We suggest markdown. 
 - The blog post should be written for a general audience.
 - The blog post can be published afterwards on https://www.inf.uni-hamburg.de/sems 
 
