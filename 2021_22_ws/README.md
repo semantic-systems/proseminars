@@ -44,7 +44,8 @@ Students will be able to identify, evaluate and, if necessary, use current knowl
 - The poster can be created in any file format but has to be A0 and portrait.
 - The poster should not cover the whole topic but rather create interest to talk to the presenter about the topic.
 - The poster is aimed at a general but academic audience.
-- The poster will be printed by the SEMS staff afterwards and can be presented on the 4th floor of the F building if agreed.
+- If agreed by the student, the poster will be printed by the SEMS staff afterwards and can be presented on the 4th floor of the F building. 
+- We will also support you to present at the next EXPO, contact us!
 
 ### Timeline
 Sessions are initially held weekly, then in blocks. All events take place synchronously online unless otherwise announced.
@@ -52,7 +53,7 @@ Sessions are initially held weekly, then in blocks. All events take place synchr
 |    	| Date              	| From  	| To    	| What 	                                                          | Where   	|
 |----	|-------------------	|-------	|-------	|----------------------------------------------------------------	|---------	|
 | 1  	| Fr, 15. Okt. 2021 	| 14:15 	| 15:45 	| Introduction to the proseminar. Discussion of the format.      	| Digital 	|
-| 2  	| Fr, 22. Okt. 2021 	| 14:15 	| 15:45 	| Introduction to knowledge graphs.                              	| Digital 	|
+| 2  	| Fr, 22. Okt. 2021 	| 14:15 	| 15:45 	| Introduction to knowledge graphs. Discussions of good and bad blogs and posters	| Digital 	|
 | 3  	| Fr, 29. Okt. 2021 	| 14:15 	| 15:45 	|      	| Digital 	|
 | 4  	| Fr, 5. Nov. 2021  	| 14:15 	| 15:45 	|      	| Digital 	|
 | 5  	| Fr, 12. Nov. 2021 	| 14:15 	| 15:45 	|      	| Digital 	|
@@ -60,20 +61,22 @@ Sessions are initially held weekly, then in blocks. All events take place synchr
 | 7  	| Fr, 26. Nov. 2021 	| 14:15 	| 15:45 	|      	| Digital 	|
 | 8  	| Fr, 3. Dez. 2021  	| 14:15 	| 15:45 	|      	| Digital 	|
 | 9  	| Fr, 10. Dez. 2021 	| 14:15 	| 15:45 	|      	| Digital 	|
-| 10 	| Fr, 17. Dez. 2021 	| 14:15 	| 15:45 	| Feedback on students' previous work.                            | Digital 	|
-| 11 	| Fr, 7. Jan. 2022  	| 14:15 	| 15:45 	|      	| Digital 	|
-| 12 	| Fr, 14. Jan. 2022 	| 14:15 	| 15:45 	|      	| Digital 	|
-| 13 	| Fr, 21. Jan. 2022 	| 14:15 	| 15:45 	|      	| Digital 	|
-| 14 	| Fr, 28. Jan. 2022 	| 14:15 	| 15:45 	| Presentations in the form of 15 min presentation + 5 min discussion and a succint poster session. | Digital 	|
+| 10 	| Fr, 17. Dez. 2021 	| 14:15 	| 15:45 	| Feedback on students' previous work. | Digital 	|
+| 11 	| Fr, 7. Jan. 2022  	| 14:15 	| 15:45 	| Presentations in the form of 15 min presentation + 5 min discussion and a succint poster session. | Digital |
+| 12 	| Fr, 14. Jan. 2022 	| 14:15 	| 15:45 	| Presentations in the form of 15 min presentation + 5 min discussion and a succint poster session. | Digital |
+| 13 	| Fr, 21. Jan. 2022 	| 14:15 	| 15:45 	| Presentations in the form of 15 min presentation + 5 min discussion and a succint poster session. | Digital |
+| 14 	| Fr, 28. Jan. 2022 	| 14:15 	| 15:45 	| Presentations in the form of 15 min presentation + 5 min discussion and a succint poster session. | Digital |
 
-❓ Open discussion point: when and how to the block presentation?
 
 ### Literature
 * Hitzler, Pascal, et al. Semantic Web: Grundlagen. Springer-Verlag, 2008. (E-Book https://kataloge.uni-hamburg.de/DB=1/XMLPRS=N/PPN?PPN=556602633 )
 * Hogan, Aidan, et al. "Knowledge graphs." arXiv preprint arXiv:2003.02320 (2020), https://arxiv.org/abs/2003.02320 
-Course achievements: Submission of written assignments (blog, poster, slides) by the end of the lecture period on January 29, 2022.
+
+
 
 ### Examination
+Course achievements: Submission of written assignments (blog, poster, slides) by the end of the lecture period on January 29, 2022.
+
 Examination Results: The blog, poster, lecture and slides for the presentation will be evaluated according to a previously available evaluation form (see this repository). 
 
 ## Session 2 - Introduction to Knowledge Graphs
