@@ -80,5 +80,34 @@ Course achievements: Submission of written assignments (blog, poster, slides) by
 Examination Results: The blog, poster, lecture and slides for the presentation will be evaluated according to a previously available evaluation form (see this repository). 
 
 ## Session 2 - Introduction to Knowledge Graphs
+
+### Questions
+* Are the slides of the lecture available? 
+  * Yes.
+* Why is XML problematic? 
+  * XML follows a tree structure, which makes enrichment with additional information difficult
+  * Graph-style information is difficult to represent (e.g., loops)
+* What's up with prefixes?
+  * Prefixes are substitutions for full domains that specify an ontology (e.g., ex: <http://example.org>)
+  * Simplify writing URIs
+* Why rdf:first?
+  * It was just defined in that way by the creators of RDF. Could be named different but was not.
+* Do the URIs correspond to content?
+  * It depends. Usually, the URIs of common knowledge graphs point to HTML pages or rdf-based subgraph representations of the information relevant to the URI.
+* What are the requirements of the proseminar?
+  * For usual web-related topics, the first few paragraphs of Wikipedia suffices.
+  * For other KG-related topics, the goal of the proseminar is to dive into the unknown topics.
+* How do we assign the presentation topics?
+  * Via a form, which we will provide per mail. 
+* Own topic? Criterias?
+  * Peer-reviewed publication **or** a KG, which is of interest
+  * More infos in the future
+
+### Other infos
+
+* If we want, we can get a room to present the posters.
+* Poll on 17.12.2021
+
+
 ## Session 3 - Feedback on students' previous work
 ## Session 4 - Presentation Block 
