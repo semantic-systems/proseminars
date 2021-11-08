@@ -108,6 +108,9 @@ Examination Results: The blog, poster, lecture and slides for the presentation w
 * If we want, we can get a room to present the posters.
 * Poll on 17.12.2021
 
+## Session 2.5 - Teaching Analysis Poll
+
+* Date: 10. Dezember 2021 - 14.15 to 15.00
 
 ## Session 3 - Feedback on students' previous work
 ## Session 4 - Presentation Block 
