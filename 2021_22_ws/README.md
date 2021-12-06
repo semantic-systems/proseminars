@@ -41,7 +41,7 @@ Students will be able to identify, evaluate and, if necessary, use current knowl
 - The blog post can be published afterwards on https://www.inf.uni-hamburg.de/sems 
 
 #### Poster
-- The poster can be created in any file format but has to be A0 and portrait.
+- The poster can be created in any file format but has to be A0, and portrait or landscape.
 - The poster should not cover the whole topic but rather create interest to talk to the presenter about the topic.
 - The poster is aimed at a general but academic audience.
 - If agreed by the student, the poster will be printed by the SEMS staff afterwards and can be presented on the 4th floor of the F building. 
